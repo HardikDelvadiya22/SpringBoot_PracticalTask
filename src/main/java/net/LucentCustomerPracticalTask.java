@@ -1,0 +1,13 @@
+package net;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LucentCustomerPracticalTask {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LucentCustomerPracticalTask.class, args);
+	}
+
+}
